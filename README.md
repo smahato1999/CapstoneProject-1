@@ -32,3 +32,6 @@
 11. Publish your website using GitHub pages and share it here (in the Q&A) with other students.
 
 12. Comment and make suggestions to other students' projects.
+
+Here is the website link:
+https://smahato1999.github.io/CapstoneProject-1/
